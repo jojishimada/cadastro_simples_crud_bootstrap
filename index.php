@@ -45,6 +45,9 @@
          case "listar":
           include("listar-usuario.php");
          break;
+         case "editar":
+          include("editar-usuario.php");
+          break;
          case "salvar":
           include("salvar-usuario.php");
           break;
